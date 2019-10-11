@@ -1,0 +1,19 @@
+1 Get ready for walk
+  1.1 Get dog
+  1.2 Get leash
+  1.3 Get poop bag
+  1.4 Pick Route
+2 Go outside
+  2.1 Walk out front door
+  2.2 Go downstairs
+  2.3 Walk out of the outside door
+3 Walk dog
+	3.1 Follow route (left or right)
+	3.2 Wait for dog to go #1/#2
+	3.3 Pick up #2
+  3.4 Throw away poop outside
+4 Go back inside
+	4.1 Go in building door
+	4.2 Walk upstairs
+	4.3 Go into apartment
+	4.4 Unleash dog
